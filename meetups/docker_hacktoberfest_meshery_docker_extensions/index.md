@@ -18,7 +18,7 @@ What will you learn?
 
 ## Prerequisites
 
-None
+*None*
 
 ## Resources
 
