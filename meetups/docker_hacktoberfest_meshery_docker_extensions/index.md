@@ -22,8 +22,7 @@ What will you learn?
 
 ## Resources
 
-- [Slides](https://docs.google.com/presentation/d/1n7LBYVizoghtpHgsyuNJ-noAjxBrq8OX/edit#slide=id.g170aaf52722_0_113) in [Layer5 Community](https://layer5.io/community) Drive
-- [Meetup](https://www.meetup.com/docker-bangalore/events/288597531/)
+- [Slides](/meetups/docker_hacktoberfest_meshery_docker_extensions/slides.pdf)
 - Newsroom
   - [Article on Layer5 Community Events](https://layer5.io/community/events/hacktoberfest-2022-docker-extensions-show-n-tell)
   - [Tweet](https://twitter.com/ajeetsraina/status/1583719116510097408?s=20)
