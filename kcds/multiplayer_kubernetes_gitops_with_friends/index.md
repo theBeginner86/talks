@@ -21,6 +21,7 @@ Audience members will be introduced to the Meshery Playground, which serves as a
 
 - [Slides](/kcds/multiplayer_kubernetes_gitops_with_friends/slides.pdf)
 - [Event site](https://kcdchennai.in)
+- [Recording](https://youtu.be/izfqGLSL-gE?si=IKVwU6-Wjyu3UDjA)
 - Newsroom
   - [Article on Layer5 Community Events](https://layer5.io/community/events/kcd-chennai-2023)
   - Tweets
