@@ -22,6 +22,7 @@ Audience members will be introduced to the Meshery Playground, which serves as a
 - [Slides](https://github.com/kcdchennai/kcdchennai/blob/main/2023/Speaker%20Slides%20PDF/Lightning%20Talk%20-%20Multiplayer%20Kubernetes%20-%20GitOps%20with%20Friends.pdf)
 - [Event site](https://kcdchennai.in)
 - [Recording](https://youtu.be/izfqGLSL-gE?si=IKVwU6-Wjyu3UDjA)
+- [Credly Badge](https://www.credly.com/badges/342eda0c-7633-4a29-9f48-9561556ffee9/public_url)
 - Newsroom
   - [Article on Layer5 Community Events](https://layer5.io/community/events/kcd-chennai-2023)
   - Tweets
